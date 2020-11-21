@@ -1,2 +1,4 @@
 # hello-word
-just another repository
+
+This my first word in the world. I like it!
+Yes? yes.
